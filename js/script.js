@@ -61,9 +61,3 @@ var love = setInterval(function () {
       }
     });
   }, 500);
-  
-
-  function play() {
-    var audio = document.getElementById("audio");
-    audio.play();
-  }
