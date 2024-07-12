@@ -153,17 +153,21 @@ body {
     }
 
     .bg_heart {
-        height: 145vh;
+        height: 140vh;
     }
 
     .name p {
-        font-size: 20px;
+        font-size: 18px;
       }
+
+    .name {
+        width: 50%;
+      }  
 }
 
 
 @media only screen and (max-width:768px) {
     .bg_heart {
-        height: 190vh;
+        height: 160vh;
     }
 }
